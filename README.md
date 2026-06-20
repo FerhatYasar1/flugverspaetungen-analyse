@@ -25,7 +25,7 @@ Welche Airlines und Wochentage haben die höchsten Verspätungsraten im US-Luftv
 ## Power BI Dashboard
 ![Dashboard](dashboard.png)
 
-📥 [Dashboard herunterladen](https://github.com/FerhatYasar1/flugverspaetungen-usa-analyse/raw/main/Dashboard_Verspätung_USA_Airlines.pbix)
+📥 [Dashboard herunterladen](https://github.com/FerhatYasar1/flugverspaetungen-usa-analyse/raw/main/Dashboard_Verspaetung_USA_Airlines.pbix)
 ## 👤 Autor
 Ferhat Yasar – Data Analyst | Verkehr & Luftfahrt  
 [LinkedIn](https://www.linkedin.com/in/ferhat-yasar-37499940a)
